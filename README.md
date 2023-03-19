@@ -9,4 +9,5 @@ This is the backlog proposal described [in this discussion](https://github.com/p
 ## Groups of issues
 
 * [Licensing](https://github.com/plantuml/backlog/issues?q=is%3Aissue+is%3Aopen+label%3Alicensing)
+* [layout](https://github.com/plantuml/backlog/issues?q=is%3Aissue+is%3Aopen+label%3Alayout)
 
